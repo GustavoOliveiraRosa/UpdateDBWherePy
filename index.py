@@ -10,6 +10,7 @@ while True:
     if initialID <= finalID:
 
         print(str("UPDATE ")+str(table)+str(" SET ")+str(column)+str("='")+str(value)+str("' where id=")+str(initialID))
+        cmdmysql(str("UPDATE ")+str(table)+str(" SET ")+str(column)+str("='")+str(value)+str("' where id=")+str(initialID))
         
 
         initialID = initialID + 1
