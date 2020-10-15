@@ -9,7 +9,10 @@ Neste repositório, trago o código fonte de um script que atualizará todos os 
 **15/10/2020**
 
 - [x] Atualiza o banco de acordo com range de IDS.
-- [x] Cria um LOG com os registros atualizados.
+
+## Ideias para possiveis atualizações
+
+- [ ] Criar um LOG com os registros atualizados.
 
 ## Como usar
 
