@@ -1,4 +1,4 @@
-# HISOKA SCREENSHOT WEBSCRAPPING
+# DATABASE UPDATER BY RANGE ID
 
 Neste repositório, trago o código fonte de um script que atualizará todos os registros de uma determinada tabela em um range especifico de IDS.O objetivo deste repositório é ajudar a comunidade a se desenvolver , além de manter afiada minhas habilidades desenvolvendo usando a linguagem Python.
 
